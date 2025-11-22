@@ -1,0 +1,9 @@
+These are **exactly the libraries your notebook uses**, based on the imports:
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
